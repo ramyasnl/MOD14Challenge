@@ -92,13 +92,13 @@ Link to the story : https://public.tableau.com/profile/ramya.s.manivannan#!/vizh
 1.Checkout Time for Users<br/>
  The plot shows that the maximum usage of bike is for 5 minutes of Tripduration <br/>
 2.Checkout Times by Gender<br/>
- From the plot we know that 108K Males ,34K Female ,7K Unknowns have used the bike for the quick commute .
+ From the plot we know that 108K Males ,34K Female ,7K Unknowns have used the bike for the quick commute .<br/>
 3.Trips by Weekday for Each Hour <br/>
-  This kind of plot helps us to easily figure out when the maximum value is reached and when it got minimum ,<br/> 
-  In ours maximum usage was on 8 AM & 6 PM  on Thursdays.
+  This kind of plot helps us to easily figure out when the maximum value is reached and when it got minimum <br/> 
+  In ours maximum usage was on 8 AM & 6 PM  on Thursdays.<br/>
   4.Trips by Gender (Weekday per Hour)<br/>
     This helps to understand the data by classifying it in to Male,Female,Unknown.<br/> 
-    this helps us get a complete understanding of the data.<br/> 
+     Gives a complete understanding of the data.<br/> 
    5.User Trips by Gender by Weekday <br/> 
      This shows more Male and Female  subscribers are interested than the customer's of both kind <br/> 
      The Story gives a clear picture of the data we have used , tableau helps us to  visualize data with minimum processing . 
