@@ -51,4 +51,37 @@ ii. Deliverable 2: Create Visualizations for the Trip Analysis</br>
 iii. Deliverable 3: Create a Story and Report for the Final Presentation<br/>
 
 ## Results
-1.Checkout Time for Users<br/>
+###<b>Deliverable 1: </b> </br>
+  1.Raw Data </br>
+  <img src="https://github.com/ramyasnl/MOD14Challenge/blob/main/images/first/2021-05-08%20(2).png" width="200" height="200" />
+
+   2.Modified Data  </br>
+ ![2021-05-08%20(3).png](https://github.com/ramyasnl/MOD14Challenge/blob/main/images/first/2021-05-08%20(3).png)</br>
+
+###<b>Deliverable 2 :</b> </br>
+ 
+  1.a.<img src="https://github.com/ramyasnl/MOD14Challenge/blob/main/images/second/2021-05-08%20(33).png" width="200" height="200" /> 
+  1.b.<img src="https://github.com/ramyasnl/MOD14Challenge/blob/main/images/second/2021-05-08%20(34).png" width="200" height="200" /><br/>
+<b>1.Checkout Time for Users</b><br/>
+<img src="https://github.com/ramyasnl/MOD14Challenge/blob/main/images/second/2021-05-08%20(35).png" width="200" height="200" /><br/>
+
+2.a.<img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Third/2021-05-08%20(37).png"  width="200" height="200" />
+2.b.<img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Third/2021-05-08%20(38).png"  width="200" height="200" /><br/>
+  <b>2.Checkout Times by Gender</b><br/>
+  <img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Third/2021-05-08%20(39).png"  width="200" height="200" /><br/>
+  
+3.a.<img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Fourth/2021-05-08%20(25).png" width="200" height="200" /> 
+
+  <b>3.Trips by Weekday for Each Hour </b><br/>
+<img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Fourth/2021-05-09%20(2).png" width="200" height="200" /><br/>
+4.a.<img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Fifth/2021-05-08%20(30).png" width="200" height="200" /> 
+4.b.<img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Fifth/2021-05-08%20(40).png" width="200" height="200" /> 
+4.c.<img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Fifth/2021-05-08%20(43).png" width="200" height="200" /> 
+4.d.<img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Fifth/2021-05-08%20(42).png" width="200" height="200" /><br/>
+<b>4.Trips by Gender (Weekday per Hour)</b><br/>
+<img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Fifth/2021-05-08%20(41).png" width="200" height="200" /><br/>
+5.a.<img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Sixth/2021-05-08%20(44).png" width="200" height="200" />
+5.b.<img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Sixth/2021-05-08%20(45).png" width="200" height="200" />
+5.c.<img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Sixth/2021-05-08%20(46).png" width="200" height="200" /><br/>
+<b>5.Trips by Gender (Weekday per Hour)</b><br/>
+<img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Sixth/2021-05-08%20(47).png" width="200" height="200" /><br/>
