@@ -85,3 +85,7 @@ iii. Deliverable 3: Create a Story and Report for the Final Presentation<br/>
 5.c.<img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Sixth/2021-05-08%20(46).png" width="200" height="200" /><br/>
 <b>5.Trips by Gender (Weekday per Hour)</b><br/>
 <img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Sixth/2021-05-08%20(47).png" width="200" height="200" /><br/>
+<b>Deliverable 3: </b> </br>
+Link to the story : https://public.tableau.com/profile/ramya.s.manivannan#!/vizhome/challenge_story/Challenge </br>
+
+## Summary<br/>
