@@ -87,7 +87,7 @@ iii. Deliverable 3: Create a Story and Report for the Final Presentation<br/>
 <img src = "https://github.com/ramyasnl/MOD14Challenge/blob/main/images/Sixth/2021-05-08%20(47).png" width="200" height="200" /><br/>
 <b>Deliverable 3: </b> </br>
 Link to the story : https://public.tableau.com/profile/ramya.s.manivannan#!/vizhome/challenge_story/Challenge </br>
-
+Link to Dashboard : https://public.tableau.com/profile/ramya.s.manivannan#!/
 ## Summary<br/>
 1.Checkout Time for Users<br/>
  The plot shows that the maximum usage of bike is for 5 minutes of Tripduration <br/>
