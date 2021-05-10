@@ -8,20 +8,20 @@
       <ul>
         <li><a href="#built-with" id='built-with' class='anchor' aria-hidden='true'>Built With</a></li>
       </ul>
-    </li>
-    <li>
-      <a href="#getting-started" id='getting-started' class='anchor' aria-hidden='true'>Getting Started</a>
+       </li>  
+    <li> <a href="#getting-started" id='getting-started' class='anchor' aria-hidden='true'>Getting Started</a></li>
 <!--       <ul> -->
-<!--         <li><a href="#results">Results</a></li> -->
-<!--         <li><a href="#installation">Installation</a></li> -->
+       <!--   <li><a href="#results">Results</a></li>-->
+        <!--<li><a href="#summary">Summary</a></li>  -->
 <!--       </ul> -->
-    </li>
-    <li><a href='#results' id='results' class='anchor' aria-hidden='true'>Results</a></li>
-    <li><a href="#summary"id='summary' class='anchor' aria-hidden='true'>Summary</a></li>
-       
-  </ol>
+    <!-- </li> -->
+     <li> <a href="#results" id='results' class='anchor' aria-hidden='true'>Results </a> </li>  
+     <li> <a href="#summary" id='summary' class='anchor' aria-hidden='true'>Summary</a></li>
+     
+   </ol> 
 </details>
-## About The Project<br/>
+
+## About The Project <br/>
 We've gotten a good idea of how to create our story using Tableau,  to convince investors that a bike-sharing program in Des Moines is a solid business proposal and to solidify the proposal, we would like to show a bike trip analysis.<br/>
 
 For this analysis, we’ll use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, using the converted datatype, we’ll create a set of visualizations to:<br/>
@@ -40,25 +40,25 @@ Finally, we’ll add these new visualizations to the story  for our final presen
 * Tableaue Public<br/>
 
 ## Getting Started<br/>
-i. Deliverable 1: Changed Trip Duration to a Datetime Format which is in the jupytenotebook file .<br/>
-     ADD LINK TO JUPYTR NOTBK FILE , SCREENSHOT OF FILE <br/>
+<b>i. Deliverable 1:</b> Changed Trip Duration to a Datetime Format which is in the jupytenotebook file .<br/>
+     
 ii. Deliverable 2: Create Visualizations for the Trip Analysis</br>
         1.Checkout Time for Users<br/>
         2.Checkout Times by Gender<br/>
         3.Trips by Weekday for Each Hour <br/>
         4.Trips by Gender (Weekday per Hour)<br/>
         5.User Trips by Gender by Weekday <br/> 
-iii. Deliverable 3: Create a Story and Report for the Final Presentation<br/>
+iii. Deliverable 3:  Story and Summary for the Final Presentation<br/>
 
-## Results
-###<b>Deliverable 1: </b> </br>
+## Results <br/>
+### <b>Deliverable 1: </b> </br>
   1.Raw Data </br>
   <img src="https://github.com/ramyasnl/MOD14Challenge/blob/main/images/first/2021-05-08%20(2).png" width="200" height="200" />
 
    2.Modified Data  </br>
  ![2021-05-08%20(3).png](https://github.com/ramyasnl/MOD14Challenge/blob/main/images/first/2021-05-08%20(3).png)</br>
 
-###<b>Deliverable 2 :</b> </br>
+### <b>Deliverable 2 :</b> </br>
  
   1.a.<img src="https://github.com/ramyasnl/MOD14Challenge/blob/main/images/second/2021-05-08%20(33).png" width="200" height="200" /> 
   1.b.<img src="https://github.com/ramyasnl/MOD14Challenge/blob/main/images/second/2021-05-08%20(34).png" width="200" height="200" /><br/>
@@ -88,7 +88,7 @@ iii. Deliverable 3: Create a Story and Report for the Final Presentation<br/>
 <b>Deliverable 3: </b> </br>
 Link to the story : https://public.tableau.com/profile/ramya.s.manivannan#!/vizhome/challenge_story/Challenge </br>
 Link to Dashboard : https://public.tableau.com/profile/ramya.s.manivannan#!/
-## Summary<br/>
+## Summary <br/>
 1.Checkout Time for Users<br/>
  The plot shows that the maximum usage of bike is for 5 minutes of Tripduration <br/>
 2.Checkout Times by Gender<br/>
