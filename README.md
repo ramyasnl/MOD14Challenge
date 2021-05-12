@@ -42,13 +42,14 @@ Finally, we’ll add these new visualizations to the story  for our final presen
 ## Getting Started<br/>
 <b>i. Deliverable 1:</b> Changed Trip Duration to a Datetime Format which is in the jupytenotebook file .<br/>
      
-ii. Deliverable 2: Create Visualizations for the Trip Analysis</br>
+<b>ii. Deliverable 2:</b> Create Visualizations for the Trip Analysis</br>
         1.Checkout Time for Users<br/>
         2.Checkout Times by Gender<br/>
         3.Trips by Weekday for Each Hour <br/>
         4.Trips by Gender (Weekday per Hour)<br/>
         5.User Trips by Gender by Weekday <br/> 
-iii. Deliverable 3:  Story and Summary for the Final Presentation<br/>
+        
+<b>iii. Deliverable 3:</b>  Story and Summary for the Final Presentation<br/>
 
 ## Results <br/>
 ### <b>Deliverable 1: </b> </br>
